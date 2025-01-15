@@ -1,0 +1,318 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	>
+
+<channel>
+	<title>Fresco</title>
+	<atom:link href="/feed/" rel="self" type="application/rss+xml" />
+	<link></link>
+	<description>Comida italiana</description>
+	<lastBuildDate>Tue, 14 Jan 2025 20:22:26 +0000</lastBuildDate>
+	<language>pt-BR</language>
+	<sy:updatePeriod>
+	hourly	</sy:updatePeriod>
+	<sy:updateFrequency>
+	1	</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=6.7.1</generator>
+
+<image>
+	<url>/wp-content/uploads/2025/01/pizza-svgrepo-com.png</url>
+	<title>Fresco</title>
+	<link></link>
+	<width>32</width>
+	<height>32</height>
+</image> 
+	<item>
+		<title>Almoço executivo</title>
+		<link>/almoco-executivo/</link>
+		
+		<dc:creator><![CDATA[jeangs8]]></dc:creator>
+		<pubDate>Mon, 13 Jan 2025 16:11:33 +0000</pubDate>
+				<category><![CDATA[Notícias]]></category>
+		<category><![CDATA[Peixes]]></category>
+		<category><![CDATA[Pratos executivos]]></category>
+		<category><![CDATA[Saladas]]></category>
+		<guid isPermaLink="false">http://fresco.local/?p=627</guid>
+
+					<description><![CDATA[conheça mais sobre o nosso excelente almoço executivo, disponível de segunda a sexta a partir das 11:30h até 15h]]></description>
+										<content:encoded><![CDATA[
+<p class="has-drop-cap">Lorem ipsum dolor sit amet. Quo blanditiis incidunt ut error culpa et rerum sint et maxime corrupti est dolore inventore. Ut tenetur officia et recusandae dolores ut cupiditate vero in eaque repudiandae nam saepe eveniet! Aut similique laboriosam sit libero voluptatem hic minus odio a culpa adipisci et repellendus nihil ut unde consequatur. Et magni recusandae ut magnam voluptatem ut quibusdam animi aut deserunt quidem.</p>
+
+
+					<div
+						class="wp-block-uagb-image-gallery uagb-block-a557fd2e     "
+						style=""
+					>
+											<div class="spectra-image-gallery spectra-image-gallery__layout--tiled spectra-image-gallery__layout--tiled-col-3 spectra-image-gallery__layout--tiled-col-tab-3 spectra-image-gallery__layout--tiled-col-mob-2">
+											<div class='spectra-image-gallery__media-wrapper' data-spectra-gallery-image-id='629' tabindex="0">
+							<div class="spectra-image-gallery__media spectra-image-gallery__media--tiled">
+				<picture>
+					<source media="(min-width: 1024px)" srcset="/wp-content/uploads/2025/01/blur-chef-close-up-262978-1024x682.jpg">
+					<source media="(min-width: 768px)" srcset="/wp-content/uploads/2025/01/blur-chef-close-up-262978-1024x682.jpg">
+					<img decoding="async" class="spectra-image-gallery__media-thumbnail spectra-image-gallery__media-thumbnail--tiled" src="/wp-content/uploads/2025/01/blur-chef-close-up-262978-300x200.jpg" alt="" loading="lazy" />
+				</picture>
+				<div class="spectra-image-gallery__media-thumbnail-blurrer"></div>
+											<div class="spectra-image-gallery__media-thumbnail-caption-wrapper spectra-image-gallery__media-thumbnail-caption-wrapper--overlay">
+											<div class="spectra-image-gallery__media-thumbnail-caption spectra-image-gallery__media-thumbnail-caption--overlay">
+					Pratos sempre frescos				</div>
+										</div>
+									</div>
+						</div>
+						<div class='spectra-image-gallery__media-wrapper' data-spectra-gallery-image-id='40' tabindex="0">
+							<div class="spectra-image-gallery__media spectra-image-gallery__media--tiled">
+				<picture>
+					<source media="(min-width: 1024px)" srcset="/wp-content/uploads/2025/01/pizzaria-hero-fundo02-1024x683.jpg">
+					<source media="(min-width: 768px)" srcset="/wp-content/uploads/2025/01/pizzaria-hero-fundo02-1024x683.jpg">
+					<img decoding="async" class="spectra-image-gallery__media-thumbnail spectra-image-gallery__media-thumbnail--tiled" src="/wp-content/uploads/2025/01/pizzaria-hero-fundo02-300x200.jpg" alt="" loading="lazy" />
+				</picture>
+				<div class="spectra-image-gallery__media-thumbnail-blurrer"></div>
+											<div class="spectra-image-gallery__media-thumbnail-caption-wrapper spectra-image-gallery__media-thumbnail-caption-wrapper--overlay">
+											<div class="spectra-image-gallery__media-thumbnail-caption spectra-image-gallery__media-thumbnail-caption--overlay">
+					Cozinha de primeira				</div>
+										</div>
+									</div>
+						</div>
+						<div class='spectra-image-gallery__media-wrapper' data-spectra-gallery-image-id='358' tabindex="0">
+							<div class="spectra-image-gallery__media spectra-image-gallery__media--tiled">
+				<picture>
+					<source media="(min-width: 1024px)" srcset="/wp-content/uploads/2025/01/avocado-barbecue-cooked-725991-1024x731.jpg">
+					<source media="(min-width: 768px)" srcset="/wp-content/uploads/2025/01/avocado-barbecue-cooked-725991-1024x731.jpg">
+					<img decoding="async" class="spectra-image-gallery__media-thumbnail spectra-image-gallery__media-thumbnail--tiled" src="/wp-content/uploads/2025/01/avocado-barbecue-cooked-725991-300x214.jpg" alt="" loading="lazy" />
+				</picture>
+				<div class="spectra-image-gallery__media-thumbnail-blurrer"></div>
+											<div class="spectra-image-gallery__media-thumbnail-caption-wrapper spectra-image-gallery__media-thumbnail-caption-wrapper--overlay">
+											<div class="spectra-image-gallery__media-thumbnail-caption spectra-image-gallery__media-thumbnail-caption--overlay">
+					Melhores peixes				</div>
+										</div>
+									</div>
+						</div>
+						<div class='spectra-image-gallery__media-wrapper' data-spectra-gallery-image-id='630' tabindex="0">
+							<div class="spectra-image-gallery__media spectra-image-gallery__media--tiled">
+				<picture>
+					<source media="(min-width: 1024px)" srcset="/wp-content/uploads/2025/01/basil-blur-cheese-1279330.jpg">
+					<source media="(min-width: 768px)" srcset="/wp-content/uploads/2025/01/basil-blur-cheese-1279330.jpg">
+					<img decoding="async" class="spectra-image-gallery__media-thumbnail spectra-image-gallery__media-thumbnail--tiled" src="/wp-content/uploads/2025/01/basil-blur-cheese-1279330-300x200.jpg" alt="" loading="lazy" />
+				</picture>
+				<div class="spectra-image-gallery__media-thumbnail-blurrer"></div>
+											<div class="spectra-image-gallery__media-thumbnail-caption-wrapper spectra-image-gallery__media-thumbnail-caption-wrapper--overlay">
+											<div class="spectra-image-gallery__media-thumbnail-caption spectra-image-gallery__media-thumbnail-caption--overlay">
+					Massas deliciosas				</div>
+										</div>
+									</div>
+						</div>
+											<div class="spectra-image-gallery__media-sizer"></div>
+							</div>
+											</div>
+											<div class='spectra-image-gallery__control-lightbox' tabindex='0'>
+											<div class="swiper spectra-image-gallery__control-lightbox--main" dir="">
+					<div class="swiper-wrapper">
+													
+							<div class="swiper-slide">
+								<img class="swiper-lazy" data-src="/wp-content/uploads/2025/01/blur-chef-close-up-262978.jpg" alt=""/>
+								<div class="swiper-lazy-preloader swiper-lazy-preloader-white"></div>
+																	<div class="spectra-image-gallery__control-lightbox--caption" data-spectra-gallery-image-id='629'>
+										Pratos sempre frescos									</div>
+															</div>
+													
+							<div class="swiper-slide">
+								<img class="swiper-lazy" data-src="/wp-content/uploads/2025/01/pizzaria-hero-fundo02.jpg" alt=""/>
+								<div class="swiper-lazy-preloader swiper-lazy-preloader-white"></div>
+																	<div class="spectra-image-gallery__control-lightbox--caption" data-spectra-gallery-image-id='40'>
+										Cozinha de primeira									</div>
+															</div>
+													
+							<div class="swiper-slide">
+								<img class="swiper-lazy" data-src="/wp-content/uploads/2025/01/avocado-barbecue-cooked-725991.jpg" alt=""/>
+								<div class="swiper-lazy-preloader swiper-lazy-preloader-white"></div>
+																	<div class="spectra-image-gallery__control-lightbox--caption" data-spectra-gallery-image-id='358'>
+										Melhores peixes									</div>
+															</div>
+													
+							<div class="swiper-slide">
+								<img class="swiper-lazy" data-src="/wp-content/uploads/2025/01/basil-blur-cheese-1279330.jpg" alt=""/>
+								<div class="swiper-lazy-preloader swiper-lazy-preloader-white"></div>
+																	<div class="spectra-image-gallery__control-lightbox--caption" data-spectra-gallery-image-id='630'>
+										Massas deliciosas									</div>
+															</div>
+											</div>
+					<div class="swiper-button-next"></div>
+					<div class="swiper-button-prev"></div>
+				</div>			
+																									<div class='spectra-image-gallery__control-lightbox--count'>
+																			<span class='spectra-image-gallery__control-lightbox--count-page'>1</span>/<span class='spectra-image-gallery__control-lightbox--count-total'>1</span>
+																		
+								</div>
+																						<button class='spectra-image-gallery__control-lightbox--close' aria-label="Close">
+													<svg xmlns="https://www.w3.org/2000/svg" viewBox= "0 0 320 512"><path d="M310.6 361.4c12.5 12.5 12.5 32.75 0 45.25C304.4 412.9 296.2 416 288 416s-16.38-3.125-22.62-9.375L160 301.3L54.63 406.6C48.38 412.9 40.19 416 32 416S15.63 412.9 9.375 406.6c-12.5-12.5-12.5-32.75 0-45.25l105.4-105.4L9.375 150.6c-12.5-12.5-12.5-32.75 0-45.25s32.75-12.5 45.25 0L160 210.8l105.4-105.4c12.5-12.5 32.75-12.5 45.25 0s12.5 32.75 0 45.25l-105.4 105.4L310.6 361.4z"></path></svg>
+												</button>
+													</div>
+									
+
+
+<p class="has-drop-cap">Sit amet. In voluptas consequatur quo perspiciatis corporis est velit optio non sint tempore eos autem reiciendis. Ut dolorem nihil est galisum consequatur qui voluptatem iure est provident iure. Ex dolorem consequatur ut laudantium voluptatem sit deleniti minima eos doloribus dolorem ab modi voluptatem At neque unde et quaerat doloremque. Vel perspiciatis asperiores sed consequuntur iusto sed perferendis eligendi.Ut iusto incidunt non necessitatibus dolores quo obcaecati dolores nam officiis nemo quo atque animi. Ea distinctio asperiores quo exercitationem amet et reprehenderit praesentium. At velit minus aut quia earum et expedita labore et illum earum ut quos quos. Eos molestias consequatur aut quaerat quibusdam eum tempora voluptas est quia delectus. Est numquam veritatis est galisum quam et corrupti accusantium ad nostrum illum.</p>
+]]></content:encoded>
+					
+		
+		
+			</item>
+		<item>
+		<title>Noite musical</title>
+		<link>/noite-musical/</link>
+					<comments>/noite-musical/#respond</comments>
+		
+		<dc:creator><![CDATA[jeangs8]]></dc:creator>
+		<pubDate>Mon, 13 Jan 2025 17:39:39 +0000</pubDate>
+				<category><![CDATA[Eventos]]></category>
+		<category><![CDATA[Happy Hour]]></category>
+		<category><![CDATA[Música]]></category>
+		<category><![CDATA[Shows]]></category>
+		<guid isPermaLink="false">http://fresco.local/?p=658</guid>
+
+					<description><![CDATA[Lorem ipsum odor amet, consectetuer adipiscing elit. Quisque feugiat himenaeos tincidunt; lectus sodales convallis. Turpis fringilla semper natoque; maecenas ante ultricies. Nisl maximus ex placerat maecenas hendrerit venenatis volutpat magna. Non cras aliquam nulla elementum vehicula eleifend ex felis nunc. Lacinia sapien cubilia vulputate pharetra senectus mus. Curabitur ultrices habitant placerat aliquam rutrum quis. Facilisi [&#8230;]]]></description>
+										<content:encoded><![CDATA[<p>Lorem ipsum odor amet, consectetuer adipiscing elit. Quisque feugiat himenaeos tincidunt; lectus sodales convallis. Turpis fringilla semper natoque; maecenas ante ultricies. Nisl maximus ex placerat maecenas hendrerit venenatis volutpat magna. Non cras aliquam nulla elementum vehicula eleifend ex felis nunc. Lacinia sapien cubilia vulputate pharetra senectus mus. Curabitur ultrices habitant placerat aliquam rutrum quis. Facilisi malesuada eros proin facilisi, nunc justo integer?</p>
+<p>Nunc morbi lacinia sagittis eros; dictumst pellentesque viverra eleifend. Mauris feugiat massa pulvinar ut fringilla in nec per finibus. Cras risus finibus enim aenean aptent gravida? Est imperdiet ad senectus euismod accumsan sapien dignissim dignissim. Litora leo iaculis etiam fringilla efficitur phasellus magnis. Dictumst lorem fusce; malesuada efficitur odio cursus. Placerat eros molestie egestas quis egestas iaculis diam facilisis elit.</p>
+<p>Vulputate vulputate semper habitasse nunc ultrices efficitur accumsan. Vehicula aptent vitae sollicitudin elit molestie praesent hendrerit vehicula varius. Feugiat finibus conubia maecenas class justo varius etiam dis imperdiet. Per tincidunt primis neque ex, efficitur habitant praesent. Efficitur pulvinar duis; cubilia sapien porttitor est montes. Maximus montes himenaeos etiam sem nascetur nisi proin ut. Aliquam a mollis bibendum iaculis ad urna ex.</p>
+<p>Velit magnis nisi hac nisl nisi. Curae mollis suscipit luctus neque praesent; semper quam. Tincidunt feugiat ridiculus himenaeos efficitur porta pulvinar quis turpis. Felis vulputate varius adipiscing arcu; aliquet turpis sagittis. Curae tempor primis gravida rhoncus tempor per? Rutrum id id lacinia nam, elementum placerat. Donec curabitur himenaeos sed; rutrum habitant orci neque ac.<img fetchpriority="high" decoding="async" class="wp-image-659 size-medium alignright" src="http://fresco.local/wp-content/uploads/2025/01/pexels-pixabay-33597-300x199.jpg" alt="" width="300" height="199" srcset="/wp-content/uploads/2025/01/pexels-pixabay-33597-300x199.jpg 300w, /wp-content/uploads/2025/01/pexels-pixabay-33597-1024x680.jpg 1024w, /wp-content/uploads/2025/01/pexels-pixabay-33597-768x510.jpg 768w, /wp-content/uploads/2025/01/pexels-pixabay-33597.jpg 1280w" sizes="(max-width: 300px) 100vw, 300px" /></p>
+<p>Urna cursus ad lacinia feugiat conubia. Curae morbi feugiat pulvinar iaculis bibendum. Interdum amet convallis nibh iaculis diam porttitor fermentum. Ullamcorper vulputate elementum eu tempor mus cubilia sed. Vivamus sem cubilia faucibus magnis enim efficitur? Dolor aliquet dis amet porttitor; fusce facilisi. Litora sociosqu molestie suspendisse curabitur velit nisl. Euismod vel curae pretium auctor laoreet ultricies tempus litora a. Nascetur magnis himenaeos convallis mauris maecenas primis interdum.</p>
+]]></content:encoded>
+					
+					<wfw:commentRss>/noite-musical/feed/</wfw:commentRss>
+			<slash:comments>0</slash:comments>
+		
+		
+			</item>
+		<item>
+		<title>Receita de Spaghetti</title>
+		<link>/receita-de-spaghetti-ao-molho-de-tomate-e-manjericao/</link>
+					<comments>/receita-de-spaghetti-ao-molho-de-tomate-e-manjericao/#respond</comments>
+		
+		<dc:creator><![CDATA[jeangs8]]></dc:creator>
+		<pubDate>Mon, 13 Jan 2025 21:22:24 +0000</pubDate>
+				<category><![CDATA[Receitas]]></category>
+		<guid isPermaLink="false">/?p=712</guid>
+
+					<description><![CDATA[Quer preparar uma refeição prática e deliciosa? Experimente este spaghetti clássico com molho de tomate e manjericão! É simples, rápido e perfeito para qualquer ocasião. Ingredientes (4 porções): Modo de Preparo: Dica: Sirva com um bom pão italiano e uma taça de vinho para uma experiência ainda mais especial! 🥖🍷 Pronto! Essa receita vai encantar [&#8230;]]]></description>
+										<content:encoded><![CDATA[
+<p>Quer preparar uma refeição prática e deliciosa? Experimente este <strong>spaghetti clássico</strong> com molho de tomate e manjericão! É simples, rápido e perfeito para qualquer ocasião.</p>
+
+
+
+<h3 class="wp-block-heading">Ingredientes (4 porções):</h3>
+
+
+
+<ul class="wp-block-list">
+<li>250g de spaghetti</li>
+
+
+
+<li>3 colheres (sopa) de azeite de oliva</li>
+
+
+
+<li>3 dentes de alho picados</li>
+
+
+
+<li>1 lata (400g) de tomates pelados (ou 5 tomates maduros picados)</li>
+
+
+
+<li>1/2 colher (chá) de açúcar (opcional, para reduzir a acidez)</li>
+
+
+
+<li>Sal e pimenta-do-reino a gosto</li>
+
+
+
+<li>Folhas frescas de manjericão (uma boa quantidade)</li>
+
+
+
+<li>Queijo parmesão ralado para servir (opcional)</li>
+</ul>
+
+
+
+<h3 class="wp-block-heading">Modo de Preparo:</h3>
+
+
+
+<ol class="wp-block-list">
+<li><strong>Cozinhar o spaghetti</strong>:
+<ul class="wp-block-list">
+<li>Em uma panela grande, ferva água com uma pitada de sal.</li>
+
+
+
+<li>Cozinhe o spaghetti conforme as instruções da embalagem, até ficar al dente. Escorra e reserve, mantendo um pouco da água do cozimento.</li>
+</ul>
+</li>
+
+
+
+<li><strong>Preparar o molho</strong>:
+<ul class="wp-block-list">
+<li>Em uma frigideira grande, aqueça o azeite em fogo médio.</li>
+
+
+
+<li>Refogue o alho até dourar levemente.</li>
+
+
+
+<li>Adicione os tomates pelados (amasse-os com um garfo) ou os tomates picados. Cozinhe por 10-15 minutos até o molho engrossar.</li>
+
+
+
+<li>Tempere com sal, pimenta e, se necessário, adicione o açúcar.</li>
+</ul>
+</li>
+
+
+
+<li><strong>Finalizar o prato</strong>:
+<ul class="wp-block-list">
+<li>Misture o spaghetti ao molho, mexendo bem. Se o molho estiver muito espesso, adicione um pouco da água do cozimento.</li>
+
+
+
+<li>Desligue o fogo e adicione as folhas de manjericão frescas.</li>
+</ul>
+</li>
+
+
+
+<li><strong>Servir</strong>:
+<ul class="wp-block-list">
+<li>Coloque o spaghetti em pratos, finalize com queijo parmesão ralado e mais folhas de manjericão, se desejar.</li>
+</ul>
+</li>
+</ol>
+
+
+
+<hr class="wp-block-separator has-alpha-channel-opacity"/>
+
+
+
+<p><strong>Dica</strong>: Sirva com um bom pão italiano e uma taça de vinho para uma experiência ainda mais especial! <img src="https://s.w.org/images/core/emoji/15.0.3/72x72/1f956.png" alt="🥖" class="wp-smiley" style="height: 1em; max-height: 1em;" /><img src="https://s.w.org/images/core/emoji/15.0.3/72x72/1f377.png" alt="🍷" class="wp-smiley" style="height: 1em; max-height: 1em;" /></p>
+
+
+
+<p>Pronto! Essa receita vai encantar quem estiver lendo seu post. Se precisar ajustar algo, me avise! <img src="https://s.w.org/images/core/emoji/15.0.3/72x72/1f60a.png" alt="😊" class="wp-smiley" style="height: 1em; max-height: 1em;" /></p>
+]]></content:encoded>
+					
+					<wfw:commentRss>/receita-de-spaghetti-ao-molho-de-tomate-e-manjericao/feed/</wfw:commentRss>
+			<slash:comments>0</slash:comments>
+		
+		
+			</item>
+	</channel>
+</rss>
