@@ -36,16 +36,6 @@ O site foi desenvolvido com os seguintes plugins do WordPress:
 
 ---
 
-## 🖼️ Capturas de Tela
-
-**Painel do WordPress**  
-![Painel do WordPress](assets/wordpress-dashboard.png)
-
-**Página Inicial do Site**  
-![Página Inicial](assets/homepage.png)
-
----
-
 ## 🛠️ Deploy
 
 A versão estática do site foi gerada e configurada para ser hospedada no [Vercel](https://vercel.com). A configuração básica no arquivo `vercel.json` redireciona todas as rotas para o arquivo `index.html`.
